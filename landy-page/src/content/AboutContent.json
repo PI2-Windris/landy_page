@@ -1,16 +1,5 @@
 {
-  "title": "Light, Fast & Responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
-  "section": [
-    {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
-    },
-    {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
-      "icon": "notes.svg"
-    }
-  ]
+  "title": "Importancia da energia renovável",
+  "text": "As energias renováveis possibilitam o desenvolvimento sustentável, com base no desenvolvimento econômico, na equidade social além proteção ambiental. Seguindo esses conceitos, e visivel que para o desenvolvimento sustentável é imprescindível o uso de fontes de renováveis energia, sabendo que as fósseis não se encaixão"
+
 }
