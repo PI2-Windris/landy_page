@@ -1,6 +1,5 @@
 import { lazy, Fragment } from "react";
-import { Row, Col } from "antd";
-import i18n from "i18next";
+import { Row } from "antd";
 import { withTranslation } from "react-i18next";
 import Fade from "react-reveal/Fade";
 
@@ -10,9 +9,7 @@ const SvgIcon = lazy(() => import("../../common/SvgIcon"));
 const Container = lazy(() => import("../../common/Container"));
 
 const Footer = ({ t }) => {
-  const handleChange = (event) => {
-    i18n.changeLanguage(event.target.value);
-  };
+  
 
   const SocialLink = ({ href, src }) => {
     return (
