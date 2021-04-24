@@ -23,6 +23,7 @@ const Home = () => {
         title={IntroContent.title}
         content={IntroContent.text}
         button={IntroContent.button}
+        color= "#99BFBB"
         icon="windris_escura.svg"
         id="intro"
       />

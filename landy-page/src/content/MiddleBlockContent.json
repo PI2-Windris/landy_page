@@ -1,6 +1,6 @@
 {
     "title": "Introdução ao Projeto Windris",
     "text": "O projeto visa prover construir unidades de geração de energia híbridaàs margens das rodovias, utilizando-se da turbulência gerada pelo tráfego de veículospara movimentar turbinas de geração eólica, produzindo energia em conjunto com painéissolares. As unidades geradoras transmitem dados sobre a geração de energia, estado dos geradores e todos outros dados que estão acessíveis aos usuários através destedo dashboard Windris",
-    "button": "Saber mais"
+    "button": ["Saber mais"]
   }
   

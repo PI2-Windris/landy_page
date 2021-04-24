@@ -41,7 +41,7 @@ const Contact = ({ title, content, id, t }) => {
                   type="text"
                   name="name"
                   id="Name"
-                  placeholder="Your Name"
+                  placeholder="Seu nome"
                   value={values.name || ""}
                   onChange={handleChange}
                 />
@@ -52,7 +52,7 @@ const Contact = ({ title, content, id, t }) => {
                   type="text"
                   name="email"
                   id="Email"
-                  placeholder="Your Email"
+                  placeholder="Seu Email"
                   value={values.email || ""}
                   onChange={handleChange}
                 />
@@ -60,7 +60,7 @@ const Contact = ({ title, content, id, t }) => {
               </Col>
               <Col span={24}>
                 <TextArea
-                  placeholder="Your Message"
+                  placeholder="Sua menssagem"
                   value={values.message || ""}
                   name="message"
                   id="Message"
@@ -69,8 +69,8 @@ const Contact = ({ title, content, id, t }) => {
                 <ValidationType type="message" />
               </Col>
               <S.ButtonContainer>
-                <Button name="submit" type="submit">
-                  {t("Submit")}
+                <Button name="submit" color = "#99BFBB" type="submit">
+                  {t("Enviar")}
                 </Button>
               </S.ButtonContainer>
             </S.FormGroup>

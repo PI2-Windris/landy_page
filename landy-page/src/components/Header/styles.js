@@ -29,6 +29,7 @@ export const NavLink = styled.div`
 export const CustomNavLink = styled.div`
   width: 203px;
   display: inline-block;
+  color: "#99BFBB"
 
   @media only screen and (max-width: 411px) {
     width: 150px;
@@ -36,6 +37,7 @@ export const CustomNavLink = styled.div`
 
   @media only screen and (max-width: 320px) {
     width: 118px;
+    color: "#99BFBB";
   }
 `;
 
