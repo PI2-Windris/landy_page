@@ -10,7 +10,7 @@ const useForm = (validate) => {
   const openNotificationWithIcon = (type) => {
     notification[type]({
       message: "Success",
-      description: "Your message has been sent!",
+      description: "Sua menssagem foi enviada com sucesso!",
     });
   };
 
