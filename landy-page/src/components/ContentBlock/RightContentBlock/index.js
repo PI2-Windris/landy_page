@@ -29,7 +29,7 @@ const RightBlock = ({ title, content, button, icon, t, id }) => {
                     return (
                       <Button
                         key={id}
-                        color={item.color}
+                        color="#99BFBB"
                         width="true"
                         onClick={() => scrollTo("about")}
                       >

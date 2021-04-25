@@ -27,6 +27,7 @@ const MiddleBlock = ({ title, content, button, t }) => {
                   name="submit"
                   type="submit"
                   onClick={() => scrollTo("mission")}
+                  color= "#99BFBB"
                 >
                   {t(button)}
                 </Button>
