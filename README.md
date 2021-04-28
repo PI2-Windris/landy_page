@@ -5,6 +5,11 @@
 <br>
 <br>
 
+## Descrição
+
+Este repositório armazena a landy page do windris o primeiro contato com os Usuários do windris.
+
+
 ## Configuração de ambiente
 
 A Landy page Windris utiliza Docker e Docker-Compose para facilitar a configuração de ambiente, mas também pode ser rodada por fora com:
