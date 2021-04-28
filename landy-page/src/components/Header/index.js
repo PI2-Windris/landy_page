@@ -47,7 +47,7 @@ const Header = ({ t }) => {
           style={{ width: "180px", color: "#99BFBB"}}
         >
           <S.Span>
-            <Button color = "#99BFBB">{t("Login")}</Button>
+            <Button color = "#99BFBB"><a href="http://0.0.0.0:3001/">{t("Login")}</a></Button>
           </S.Span>
         </S.CustomNavLinkSmall>
       </Fragment>
