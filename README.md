@@ -1,7 +1,7 @@
 <br>
 <br>
 <h1 align="center" > Landy Page </h1>
-<p align="center"> Gateway de acessos microsserviços Windris</p>
+<p align="center"> Landy page Windris</p>
 <br>
 <br>
 
